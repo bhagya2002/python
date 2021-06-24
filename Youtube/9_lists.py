@@ -17,5 +17,5 @@ print(friends[1:3]) # includes left index and everything in between but not incl
 print(friends[2][1])
 
 # change index positions
-friends[1] = "Bhagya"
+friends[1] = "Carson"
 print(friends)

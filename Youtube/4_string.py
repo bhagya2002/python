@@ -1,14 +1,14 @@
 #strings
 
-phrase = "Aarush"
+phrase = "Tom"
 
-print("Bhagya Patel")
+print("John Anderson")
 
 # to insert a newline use \n
-print("Bhagya\nPatel")
+print("John\Anderson")
 
 # to use a quotation mark use \" (escape character) - any char after this is valid
-print("Bhagya \"A\" Patel")
+print("John \"A\" Anderson")
 
 # concatination
 print(phrase + " is a cool guy!")
@@ -26,5 +26,5 @@ print(phrase[0])
 print(phrase.index("A"))
 
 # replace in a string
-print(phrase.replace("Aarush", "Parents"))
+print(phrase.replace("Tom", "Parents"))
 print(phrase)
