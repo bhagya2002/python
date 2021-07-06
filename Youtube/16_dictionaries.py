@@ -24,3 +24,31 @@ print(monthConverstions["Nov"])
 
 # using .get() you can set a default if a key entered is not found
 print(monthConverstions.get("Luv", "Not a valid key"))
+
+stored = monthConverstions["Jan"]
+print(stored)
+
+# add new key and value
+monthConverstions["IDK"] = "I dont know"
+print(monthConverstions)
+
+
+# existing value changes
+monthConverstions["Jan"] = "Not January"
+print(monthConverstions)
+
+# delete key/value pair
+del monthConverstions["Feb"]
+print(monthConverstions)
+
+# list of keys
+print(list(monthConverstions))
+
+# return keys
+monthConverstions.keys()
+
+# returns values
+monthConverstions.values()
+
+# returns both
+monthConverstions.items()

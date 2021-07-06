@@ -1,6 +1,14 @@
 # reading files
 
-# openning files
+# with open("file_name", "mode") as variable_name:
+#   ...
+
+# opening files
+# "r" -> reading
+# "r+" -> read and write
+# "w" -> write
+# "a" -> append
+# append a "b" to above modes for binary and "t" for text
 
 # good practise to store open file in a variable
 employee_file = open("files/employees.txt", "r")

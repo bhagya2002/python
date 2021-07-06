@@ -1,5 +1,9 @@
 # List functions
 
+# map(function, list_name) -> used to apply the function to each of the items in the list
+# x1, y1 = map(int, list_name) turns each item in the list to a int( ) storing entry into x1 and y1
+# coords = list(map(int, list_name)) -> turns each item in the list to int and stores in a new list named coords
+
 lucky_number = [4,8, 15, 16, 23, 42]
 friends = ["Kevin", "Karen", "Jimmy", "Jimmy", "Oscar", "Tim"]
 
@@ -88,3 +92,4 @@ print(joined)
 # joined it together seperated by ""
 joined1 = ''.join(['1', '2', '3', '4', '5']) # 12345
 print(joined1)
+

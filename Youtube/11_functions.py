@@ -30,3 +30,5 @@ def say_hi_to_user_age(name, age):
 say_hi_to_user_age(user, "26") 
 say_hi_to_user_age("Johnny", "35")
 say_hi_to_user_age("Tim", str(70)) # since we cannot use numbers when concatincating we must convert any nums to strings
+
+# default values can be  passed to a parameters
