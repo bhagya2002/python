@@ -1,0 +1,18 @@
+Interpreter means line by line reading. Runs everytime code is run
+Compiler means whole program is read. HOWEVER, it is faster as it only reads when smth changes
+
+Python is dynamially typed: do not have to enter a type when declaring a variable
+
+"python3" to run python code
+help( ) is used to find more info on a function
+
+exit( ) quits the Interpreter
+
+python files end in ".py"
+
+# -> used to comment a line of code
+"""
+
+""" -> used to comment multiple lines of code
+
+convention is "_"

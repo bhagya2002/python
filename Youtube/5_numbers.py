@@ -1,4 +1,14 @@
 # numebrs
+# int -> whole numbers
+# floats -> decimal numbers are accepted
+# abs(x) -> takes the absolute value of the number
+# int(x) -> converts x into a integer
+# float(x) -> converts x into a floating point
+# str(x) -> converts x into a string
+
+# "//" -> floor division (round down)
+# "%" -> modulo (take the remainder of the divison)
+# "**" -> exponential
 
 # printing numbers, just tpye the numebr in the Print()
 print(5)

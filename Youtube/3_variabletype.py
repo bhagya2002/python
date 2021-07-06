@@ -11,5 +11,10 @@ print("He really liked the name " + character_name + " ,")
 print("but didn't like being " + character_age + " .")
 
 # " " -> string (any text)
+# [" ", " ", " "] -> lists
 # num -> number (any number including decimals)
 # True/False -> boolean (true or false statements)
+#  274 -> int
+# 34.56 -> float
+
+# use type( ) to find the type
