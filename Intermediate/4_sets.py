@@ -57,3 +57,7 @@ b = {1, 2, 3}
 
 print(b.issubset(a)) # b is a subset of a: True
 print(b.issuperset(a)) # b is a superset of a: False
+
+# to copy a set, use the copy() method
+
+# frozenset is immutable (cannot oadd or remove elements)
