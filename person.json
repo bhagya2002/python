@@ -1,0 +1,11 @@
+{
+    "age": 19,
+    "city": "Edmonton",
+    "hasChildren": false,
+    "name": "Bhagya",
+    "title": [
+        "Student",
+        "Developer",
+        "Athlete"
+    ]
+}

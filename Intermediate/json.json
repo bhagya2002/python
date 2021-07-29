@@ -1,0 +1,17 @@
+{
+  "firstName": "Ajay",
+  "lastName": "Patel",
+  "hobbies": ["programming", "sports", "adventours"],
+  "age": 46,
+  "hasChildren": true,
+  "children": [
+    {
+      "firstName": "Bhagya",
+      "age": 19
+    },
+    {
+      "firstName": "Bhagya",
+      "age": 19
+    }
+  ]
+}
